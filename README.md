@@ -1,4 +1,4 @@
-# Sales-and-Customer-Analysis
+# Sales-and-Customer-Analysis using Power BI
 This project presents an end-to-end analysis of Shopify sales data using Power BI with the goal of uncovering actionable business insights through interactive dashboards and data visualization
 
 # Objective
